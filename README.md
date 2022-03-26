@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @quentinROTOLO
-- 👀 I’m interested in Softwre Development, AI, hardware, Automation and Global Positionning Systems
-- 🌱 I’m currently learning Java, Python, IA theroies, SQL, Shell bash, Linux, HMTL, CSS 
-- 💞️ I’m looking to collaborate on a AI project consisting in using a neuron network to recognize and describe photos and numbers  
-- 📫 How to reach me: please leave me alone ! 
+- 👀 I’m interested in Software Development, AI, hardware, Automation, operating systems engineering and Global Positionning Systems
+- 🌱 I’m currently learning Java, Python, IA theroies, SQLite, Shell bash, Linux, HMTL, CSS, Javascript 
+- 💞️ Our project is to build a multilingual dictionnary to learn englisj, french, spanish and german. 
+- 📫 How to reach me: impossible ! 
 
 <!---
 quentinROTOLO/quentinROTOLO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
